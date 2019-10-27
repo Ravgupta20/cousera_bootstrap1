@@ -1,42 +1,32 @@
-.row-header {
-	margin: 0px auto;
-	padding: 0px auto;
+.row-header{
+    margin:0px auto;
+    padding:0px;
 }
 
 .row-content {
-	margin: 0px auto;
-	padding: 50px 0px 50px 0px;
-	border-bottom: 1px ridge;
-	min-height: 400px;
-	background-color: #63f2d1;
-	color: floralwhite;
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
 }
 
-.footer {
-	margin: 0px auto;
-	padding: 20px 0px 20px 0px;
-	background-color: #63f2d1;
-	color: floralwhite;
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
 }
 
 .jumbotron {
-	padding: 70px 30px 70px 30px;
-	margin: 0px auto;
-	background-color: #ffcac4;
-	color: floralwhite;
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
 }
 
-.address {
-	font-size: 80%;
-	margin: 0px;
-	color: #0f0f0f; 
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
 }
 
-body {
-	background-color: #63f2d1;
-	color: floralwhite;
-}
 
-a {
-	color: floralwhite;
-}
